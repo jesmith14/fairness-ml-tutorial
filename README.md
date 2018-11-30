@@ -3,9 +3,7 @@
 - [Overview](#Overview)
 - [How to Use This Tutorial](#how-to-use-tutorial)
 - [Add Content](#add-content)
-- [License](#licence)
-
-***
+- [License](#Licence)
 
 ## [Overview](#Overview)
 This tutorial provides an introduction to the importance of analyzing machine learning predictors for fairness. It is recommended (but not required) that you are familiar with python and working with pandas dataframes before starting.
@@ -20,8 +18,7 @@ In this tutorial, you will learn:
   - Utilizing sensitivity, recall, and precision
   
 ***It is recommended to have Jupyter Notebooks installed on your machine. However, you can run a Notebook in the browser.***
-  
-*** 
+
 
 ## [How To Use Tutorial](#how-to-use-tutorial)
 
@@ -31,7 +28,6 @@ This tutorial was created with an accompanying paper, that has been submitted to
 
 Until the paper is publicly available, please reference the Tutorial Solution Manual to check your answers and to get help on the tutorial.
 
-***
 
 ## [Add Content](#add-content)
 
@@ -41,10 +37,8 @@ If you'd like to reach out to discuss this work or colloborate, please send me a
 
 `jessiejsmith01@gmail.com`
 
-***
-
   
-### [License](#license)
+### [License](#License)
 
 This Tutorial is Open Source under the [Creative Commons License 4.0](https://github.com/jesmith14/fairness-ml-tutorial/blob/master/LICENSE.md).
 
