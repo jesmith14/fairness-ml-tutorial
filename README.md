@@ -1,9 +1,9 @@
 # Introduction to Fairness in Machine Learning
 
-[Overview](#Overview)
-[How to Use This Tutorial](#HowTo)
-[Add Content](#AddContent)
-[License](#Licence)
+- [Overview](#Overview)
+- [How to Use This Tutorial](#HowTo)
+- [Add Content](#AddContent)
+- [License](#Licence)
 
 
 # [Overview](#Overview)
