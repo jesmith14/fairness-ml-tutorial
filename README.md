@@ -21,7 +21,7 @@ In this tutorial, you will learn:
 ** It is recommended to have Jupyter Notebooks installed on your machine. However, you can run a Notebook in the browser.**
   
 
-# [How To Use Tutorial](#HowTo)
+# [How To Use Tutorial](#Overview)
 
 There are two tutorial files. One with solutions and one without. Simply clone or fork the repo to access the tutorial Jupyter Notebook on your personal machine.
 
