@@ -1,14 +1,14 @@
 #### ⚠️ NOTICE : This tutorial is getting revamped! 🎉
-#### We are currently in the process of creating Version 1.0-beta, to be released by the end of October, 2019. If you would like to be notified of this release, please send me an email!
+#### We are currently in the process of creating Version 1.0-beta, to be released in 2021. If you would like to be notified of this release, please send me an email!
 
-jessiejsmith01@gmail.com
+Jessie.Smith-1@colorado.edu
 
 # Introduction to Fairness in Machine Learning
 
-- [Overview](#Overview)
+- [Overview](#overview)
 - [How to Use This Tutorial](#how-to-use-tutorial)
 - [Add Content](#add-content)
-- [License](#Licence)
+- [License](#license)
 
 ## [Overview](#Overview)
 This tutorial provides an introduction to the importance of analyzing machine learning predictors for fairness. It is recommended (but not required) that you are familiar with python and working with pandas dataframes before starting.
