@@ -1,8 +1,3 @@
-#### ⚠️ NOTICE : This tutorial is getting revamped! 🎉
-#### We are currently in the process of creating Version 1.0-beta, to be released in 2021. If you would like to be notified of this release, please send me an email!
-
-Jessie.Smith-1@colorado.edu
-
 # Introduction to Fairness in Machine Learning
 
 - [Overview](#overview)
